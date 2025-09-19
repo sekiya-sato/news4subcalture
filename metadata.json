@@ -1,0 +1,5 @@
+{
+  "name": "Japan Otaku News",
+  "description": "An application that fetches the latest news from Japan about cosplay, idols, anime, and light novels using the Gemini API.",
+  "requestFramePermissions": []
+}
